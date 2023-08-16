@@ -1,0 +1,20 @@
+.contenedorInput{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input {
+    text-align: center;
+    border: yellow 2px solid;
+    border-radius: 10px;
+    font-size: 19px;
+    height: 40px;
+    padding: 0px;
+    margin-bottom: 25px;
+    }
+input:hover {
+    border: greenyellow 2px solid;
+}
+input:focus {
+    outline-color: rgb(207, 155, 24) 2px solid;
+}

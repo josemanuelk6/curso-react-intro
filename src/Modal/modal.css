@@ -1,0 +1,15 @@
+div.modalclass {
+    position: fixed;
+    bottom: 100px;
+    right: 60px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 80%;
+    max-width: 800px;
+    height: 180px;
+    background: rgb(89, 143, 244);
+    border-radius: 29px;
+    box-shadow: 5px -5px rgb(125, 122, 122) ;
+
+}
