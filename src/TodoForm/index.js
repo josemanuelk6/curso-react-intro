@@ -33,7 +33,7 @@ function TodoForm(){
             required
         />
         <button onClick={onCancel} className="TodoForm-button">Cancelar</button>
-        <button type="submit" className="TodoForm-button">Añadir</button>
+        <button type="submit" className="TodoForm-button">Añadir!</button>
     </form>);
 }
 
